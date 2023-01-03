@@ -9,7 +9,7 @@
 
 :rocket: Actualmente estoy buscando mi primera oportunidad laboral en este ámbito.
 
-<h2><Tecnologías y herramientas/></h2>
+<h2 align="justify">&lt;Tecnologías y herramientas/&gt; </h2>
 
 <div align="justify">
 
@@ -47,8 +47,8 @@
 
 </div>
 
-<h2><Mis estadísticas/></h2>
-[![mireiaparra GitHub stats](https://github-readme-stats.vercel.app/api?username=mireiaparra&hide=stars)](https://github.com/mireiaparra/github-readme-stats)
+<h2 align="justify">&lt;Mis estadísticas/&gt; </h2>
+<img src="https://github-readme-stats.vercel.app/api?username=mireiaparra&hide=stars&count_private=true&theme=radical&show_icons=true" />
 
-<h2><Lenguajes más usados/></h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mireiaparra)](https://github.com/mireiaparra/github-readme-stats)
+<h2 align="justify">&lt;Lenguajes más usados/&gt; </h2>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mireiaparra &layout=compact />
