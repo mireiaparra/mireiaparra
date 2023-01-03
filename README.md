@@ -1,6 +1,6 @@
 ![Mireia Maldonado Parra](/image/bannerMireia.jpg)
 
-#<h1>¡Hola! Soy Mireia, junior Front-End Developer</h1>
+<h1>¡Hola! Soy Mireia, junior Front-End Developer</h1>
 
 :movie_camera: Sevillana y graduada en Comunicación Audiovisual
 :pencil2: He probado suerte como guionista, doctoranda y bibliotecaria
