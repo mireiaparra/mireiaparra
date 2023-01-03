@@ -9,7 +9,9 @@
 
 :rocket: Actualmente estoy buscando mi primera oportunidad laboral en este ámbito.
 
-##<Tecnologías y herramientas/>
+<h2><Tecnologías y herramientas/></h2>
+
+<div align="justify">
 
 <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=cea1fb&color=8c52ff&logoColor=white&label=%20&style=for-the-badge"/>
 
@@ -43,8 +45,10 @@
 
 <img src="https://img.shields.io/static/v1?message=Adobe Photoshop&logo=adobephotoshop&labelColor=8c52ff&color=cea1fb&logoColor=white&label=%20&style=for-the-badge"/>
 
-##<Mis estadísticas/>
+</div>
+
+<h2><Mis estadísticas/></h2>
 [![mireiaparra GitHub stats](https://github-readme-stats.vercel.app/api?username=mireiaparra&hide=stars)](https://github.com/mireiaparra/github-readme-stats)
 
-##<Lenguajes más usados/>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mireiaparra &layout=compact />
+<h2><Lenguajes más usados/></h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mireiaparra)](https://github.com/mireiaparra/github-readme-stats)
