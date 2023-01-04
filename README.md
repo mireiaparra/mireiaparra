@@ -3,6 +3,7 @@
 <h1>¡Hola! Soy Mireia, junior Front-End Developer</h1>
 
 :movie_camera: Sevillana y graduada en Comunicación Audiovisual
+
 :pencil2: He probado suerte como guionista, doctoranda y bibliotecaria
 
 :dog: Como eso no daba de comer a mis dos perritos, ahora he decidido reinventarme y alejarme de páginas de papel para plasmar mi creatividad en un nuevo formato: el de las páginas web.
