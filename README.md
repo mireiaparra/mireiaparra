@@ -8,8 +8,6 @@
 
 :dog: Como eso no daba de comer a mis dos perritos, ahora he decidido reinventarme y alejarme de páginas de papel para plasmar mi creatividad en un nuevo formato: el de las páginas web.
 
-:rocket: Actualmente estoy buscando mi primera oportunidad laboral en este ámbito.
-
 <h2 align="justify">&lt;Tecnologías y herramientas/&gt; </h2>
 
 <div align="justify">
